@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361528459292",
+    "project_id": "flutter-fcm-novu",
+    "storage_bucket": "flutter-fcm-novu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361528459292:android:fdc2ac97f51397c8b51fd9",
+        "android_client_info": {
+          "package_name": "com.example.awesome_namer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsFcjb7gr6RkN2yKZzMZACmyftq_N4O04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
