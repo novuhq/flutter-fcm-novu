@@ -1,16 +1,10 @@
-# awesome_namer
+# Flutter FCM Novu Guide App
 
-A new Flutter project.
+A Flutter app that shows how to receive FCM push notifications via Novu.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Clone the project
+- Run `flutter pub get` to install all the dependencies.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Follow The Novu Guide
